@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sentence-transformers
+faiss-cpu
+fpdf
+pandas
+matplotlib
+seaborn
+python-multipart
